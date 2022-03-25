@@ -1,4 +1,4 @@
-# Exercício-1-Integração-Eclipse-e-GitHub
+# Exercício-1
 
 Auto avaliação: total, todos os requisitos Alcançados
 
